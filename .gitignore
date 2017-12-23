@@ -1,0 +1,12 @@
+.settings
+
+.classpath
+.project
+
+
+f2eServer/node_modules
+f2eServer/.next
+yarn.lock
+
+
+proxyServer/build
