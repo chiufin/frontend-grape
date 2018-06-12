@@ -23,7 +23,7 @@ ref: java 8
 ## Deploy with Docker
 ```
 docker build -t grape-f2e-server .
-docker run -p 8090:8090
+docker run -p 8090:8090 grape-f2e-server
 ```
 
 ```
